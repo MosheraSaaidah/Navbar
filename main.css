@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.contener .nav {
+  background-color: rgb(20, 115, 197);
+  height: 70px;
+  color: white;
+}
+.contener .nav h3 {
+  float: left;
+  width: 25%;
+  margin: 20px 0 0 70px;
+  word-spacing: -7px;
+  font-size: 26px;
+}
+
+.contener .nav ul {
+  width: 60%;
+  float: right;
+  margin-top: 25px;
+}
+.contener .nav ul li {
+  text-decoration: none;
+  display: inline;
+  margin: 50px;
+  font-size: 20px;
+}
+.colorbox {
+  background-color: #c4c4e947;
+  padding: 10px;
+}
